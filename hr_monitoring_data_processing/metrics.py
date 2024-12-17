@@ -56,8 +56,8 @@ def window_stddev(data: list, n: int) -> list:
         if len(window) == 1:
             continue
         mean = sum(window) / len (window)
-        variance = sum((i - mean) ** 2 
-                       for i in window) / (len(window) - 1)
+        #find the variance
+        variance = sum((i - mean) ** 2 for i in window) / (len(window) - 1)
         dev = variance ** 0.5
         #round the dev to 2 decimal places and then append
         stddevs.append(round(dev, 2))
