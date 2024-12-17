@@ -2,7 +2,7 @@
 
 Take a look at the file labeled `data/data2.txt`. Why might we have missing values or values that state "NO SIGNAL" in this dataset? While we are currently ignoring these values, what might be the risk of filtering these values out?
 
-Those values might still show some information, such as no signal appearing at specific times everyday couuld indicate something happening at that time.
+Those values might still show some information, such as no signal appearing at specific times everyday could indicate something happening at that time.
 
 ## Question 2
 

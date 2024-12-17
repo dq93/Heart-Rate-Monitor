@@ -69,6 +69,6 @@ def run(filename: str) -> None:
     # return all 3 lists
     return win_max, win_avg, std_dev
 
-
+#can run the specified file such as data/data2.txt instead
 if __name__ == "__main__":
     run("data/data1.txt")
