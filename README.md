@@ -1,4 +1,3 @@
-# TLab2HRM
 Heart Rate Monitor
 # Health Monitoring Data Processing
 
