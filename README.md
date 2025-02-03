@@ -1,4 +1,3 @@
-Heart Rate Monitor
 # Health Monitoring Data Processing
 
 Now that you've completed the "minimal" CLI App, your next task is to continue this development effort and perform analysis on real heart-rate data. The company you work for, Seng-Links, aims to identify periods when a user sleeps or exercises using their varying recorded heart rates. 
