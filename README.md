@@ -74,16 +74,3 @@ This file will combine all previously implemented modules to clean, process, and
 **writeup.md**
 
 This file contains 4 analytical questions you will answer based on the metrics and visualizations your code generates. Remember that you can manually develop the specified data visualizations by running your `main.py` file.
-
-## Submission 
-
-The due date for this project is `12/16`.
-
-To begin work on this project, you will create a repository in your GitHub and copy all these template files into your repo.
-
-Be sure to test as you code in order to verify that your functions are working correctly. If you see that all of your tests are evaluating to a green check-mark (✅) for a specific module, that means your code is ready to go, and you can move on to the next challenge.
-
-You can also verify that your code is working as expected by comparing the images you create in your `images/` folder to the images in the `results/` folder.
-
-To submit this project, you will submit a link to your completed GitHub repository to Canvas.
-
